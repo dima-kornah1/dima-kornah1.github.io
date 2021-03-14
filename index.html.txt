@@ -1,6 +1,7 @@
 <HTML>
  <HTML>
   <meta charset="utf-8">
+ <title>???? web-?????? "Web-DECO"</title>
  </HEAD>
  <BODY>
 
